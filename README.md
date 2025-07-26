@@ -71,8 +71,6 @@ Welcome! This is a curated showcase of my most advanced open-source projects —
 | Project            | Domain               | Language / Tech             | Highlights                                          |
 |--------------------|----------------------|------------------------------|-----------------------------------------------------|
 | log-reader-mcp     | AI Dev Tooling       | TypeScript, MCP              | AI-driven log exploration via CLI                   |
-| mcp-log-server     | Log Stream Service   | TypeScript, Azure, Discord   | Exposes logs to MCP editors in real-time           |
-| mcp-log-reader     | Log CLI Reader       | TypeScript, CLI              | Fast structured log parser for AI assistants        |
 | Discord-anti-afk   | Bot Automation       | JavaScript, Discord.js       | Keeps users active via real-time presence tracking  |
 | so_long            | 2D Game Engine       | C, mlx, libft                | Graphic rendering loop + collision engine           |
 | cube3d             | 3D Raycasting Engine | C, raycasting, mlx           | First-person view rendering from 2D map             |
