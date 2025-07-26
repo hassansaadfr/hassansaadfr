@@ -1,5 +1,5 @@
 
-# 🧠 Hassan Saad — Full Stack & Systems Portfolio
+# Full Stack & Systems Portfolio
 
 Welcome! This is a curated showcase of my most advanced open-source projects — demonstrating my skills across AI tooling, system-level C programming, developer infrastructure, and automation.
 
